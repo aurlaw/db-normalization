@@ -1,4 +1,16 @@
-# React + TypeScript + Vite
+# Database Normalization Visualizer
+
+Database Normalization visualizer using React and Tailwind.
+
+## Running
+```
+$npm i
+$npm run dev
+```
+
+Available at `http://localhost:5173/`
+
+### Tools
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
